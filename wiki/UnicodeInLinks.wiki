@@ -1,0 +1,12 @@
+  * *[http://thsoft.hu Dénes Harmath]*
+    * Project founder
+  * *[http://www.nittka.de Alexander Nittka]*
+    * Developer
+  * *Wernke zur Borg*
+    * Developer
+  * *[http://yusukekamiyamane.com Yusuke Kamiyamane]*
+    * [http://code.google.com/p/fugue-icons-src Fugue Icon Set]
+  * *Bertalan Fodor*
+    * Inspiration & ideas from [http://lilypondtool.organum.hu LilyPondTool]
+  * *Johannes Feulner*
+    * Inspiration & ideas from [http://weblily.net WebLily.net]
